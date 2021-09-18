@@ -440,5 +440,6 @@ pre, code {
    }
    .showcase-form, .showcase-text {
       width: 300px;
+      justify-self: center;
    }
 }
